@@ -3,7 +3,7 @@ A data-driven exploration of how payment methods impact taxi driver earnings,unc
 
 ![Project Banner](Cover_Picture.png)
 <p align="center">
-  <img src="cover.png" alt="Taxi Cab Drivers Payment Analysis Banner" width="80%">
+  <img src="Cover_Picture.png" alt="Taxi Cab Drivers Payment Analysis Banner" width="80%">
 </p>
 1. Purpose
 In the fast-paced taxi booking sector, maximizing revenue is crucial for both long-term success and driver satisfaction.
